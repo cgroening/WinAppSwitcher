@@ -1,6 +1,6 @@
 # Windows App Switcher written in Python
 
-Windows App Switcher is a lightweight, keyboard-driven tool that lets you quickly switch between open Windows applications using custom key bindings. Ideal for power users and developers who want to boost productivity without reaching for the mouse.
+Windows App Switcher is a lightweight, keyboard-driven tool that lets you quickly switch between open application windows using custom key bindings. Ideal for power users and developers who want to boost productivity without reaching for the mouse.
 
 Use [AutoHotKey](https://www.autohotkey.com/) or a similar tool to set a hotkey for bringing the App Switcher to the front and than hit a defined key to activate an Application. This is significantly faster than using `ALT`+`TAB`.
 
